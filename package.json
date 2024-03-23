@@ -1,6 +1,6 @@
 {
-  "name": "fs14-cli-number-gussing",
-  "version": "2.0.2",
+  "name": "fs14-cli-number-guessing",
+  "version": "2.2.2",
   "description": "",
   "main": "index.js",
   "type": "module",
